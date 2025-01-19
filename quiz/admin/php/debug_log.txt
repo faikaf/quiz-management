@@ -1,0 +1,80 @@
+Array
+(
+    [subject-name] => 25
+    [questiontxt] => hdt
+    [option1] => heuhety
+    [option2] => huet
+    [option3] => etetetetetethju
+    [option4] => ethjut
+    [answer] => juet
+)
+Array
+(
+    [subject-name] => 28
+    [questiontxt] => rwshyb
+    [option1] => rhys
+    [option2] => ryshy
+    [option3] => 46
+    [option4] => 4646
+    [answer] => 46
+)
+Array
+(
+    [subject-name] => hindi
+    [questiontxt] => khjkhko 646546
+    [option1] => 1
+    [option2] => 56
+    [option3] => 56
+    [option4] => 5
+    [answer] => 56
+)
+Array
+(
+    [subject-name] => science
+    [questiontxt] => what is leaf?
+    [option1] => option1
+    [option2] => fhskf
+    [option3] => fwef
+    [option4] => erfew
+    [answer] => t35
+)
+Array
+(
+    [subject-name] => hindi
+    [questiontxt] => निम्नलिखित में से कौन सा शब्द संज्ञा है?
+    [option1] => गुणवाचक
+    [option2] =>  संख्यावाचक 
+    [option3] =>  परिमाणवाचक 
+    [option4] => भाववाचक
+    [answer] =>  गुणवाचक
+)
+Array
+(
+    [subject-name] => hindi
+    [questiontxt] => "राम ने मीठा आम खाया।" इस वाक्य में "मीठा" कौन सा विशेषण है?
+    [option1] => गुणवाचक
+    [option2] => संख्यावाचक 
+    [option3] => परिमाणवाचक
+    [option4] => भाववाचक
+    [answer] => गुणवाचक
+)
+Array
+(
+    [subject-name] => hindi
+    [questiontxt] => भारत के राष्ट्रीय गीत का नाम क्या है?
+    [option1] => वंदे मातरम्
+    [option2] =>  जन गण मन
+    [option3] => सारे जहाँ से अच्छा
+    [option4] => जय जवान जय किसान
+    [answer] => वंदे मातरम्
+)
+Array
+(
+    [subject-name] => math
+    [questiontxt] => 1+1
+    [option1] => 2
+    [option2] => 3
+    [option3] => 5
+    [option4] => 6
+    [answer] => 2
+)

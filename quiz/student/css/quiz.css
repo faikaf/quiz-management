@@ -1,0 +1,78 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+}
+
+.quiz-containerbox {
+    font-family: 'Roboto', sans-serif;
+    max-width: 900px;
+    padding-top: 10%;
+    margin: 0 auto;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.quiz-containerbox .timer {
+    font-weight: bold;
+    text-align: right;
+}
+
+.quiz-containerbox .quiz-container .question-text {
+    font-size: 20px; /* Corrected */
+    background-color: rgb(255, 128, 0);
+    padding: 10px;
+    border-radius: 8px;
+    font-weight: normal;
+    line-height: 1.6;
+}
+
+.options-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+.options-container button {
+    width: 80%;
+    max-width: 500px;
+    padding: 12px;
+    font-size: 18px;
+    background-color: #dfd6d6;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.quiz-container .option:hover {
+    background-color: #f1f1f1; /* Adds hover effect for option buttons */
+}
+
+
+.options-container button:hover {
+    background-color: #9d9696;
+}
+
+.next-but {
+    width: 80%;
+    max-width: 150px;
+    padding: 12px;
+    font-size: 18px;
+    background-color: #27ae60;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 30px auto;
+    transition: background-color 0.3s ease;
+}
+
+.next-but:hover {
+    background-color: #cc872e;
+}

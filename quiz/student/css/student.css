@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-color: #4c6444 !important;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.main-box{
+    
+    width: 80%;
+    height: auto;
+    border-radius: 30px;
+    padding: 30px;
+}
+.main-box .navbar .navbar-brand{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #e15a2dce;
+}
+.main-box .navbar .nav-link{
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: #e15a2dce;
+}.main-box .navbar .btn{
+    background-color: #e15a2dce !important;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
+/*login*/
+.main-box .login-box .signup-box{
+    width: 80%;
+    padding: 0px 20px;
+    
+}
+.main-box .login-box{
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+}
+.main-box .signup-box{
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+}
+.main-box .login-box.active{
+    height: auto;
+    opacity: 1;
+    transition: 0.5s;
+    
+}
+.main-box .signup-box.active{
+    height: 100%;
+    opacity: 1;
+    transition: 0.5s;
+    
+}
+.btn.custom-progress-bar{
+    background-color:#e15a2dce !important;
+    
+}
+.option-box {
+    background-image: url('../../assets/bg.png'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    height: 100%; 
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px; 
+    color: rgb(0, 0, 0);
+    font-size: large;
+    
+}
